@@ -4,7 +4,7 @@ type Props = {
   title: string;
 };
 
-const bla = 'varsss';
+const bla = 'varssssssss';
 
 export default function Home({ title = 'React Avancado' }: Props) {
   return (
